@@ -18,23 +18,25 @@
 ## 🚀 My Toolbox
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" />
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" />
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" />
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/hadoop.png" alt="Hadoop" />
-  <img src="https://img.icons8.com/color/48/000000/spark.png" alt="Spark" />
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="PowerBI" />
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="SQL" />
+<img  width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" />
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
+<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+<img width="45" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" />
+<img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" />
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" title="Hadoop"/>
+<img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/>
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
+<img width="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 </p>
 
 ---
