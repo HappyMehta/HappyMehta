@@ -67,7 +67,7 @@
 <p align="center">
   <a href="mailto:mehta6e@uwindsor.ca"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/happy-mehta"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/happymehta/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/_happymehta_/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
 </p>
 
 ---
